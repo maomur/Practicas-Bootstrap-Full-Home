@@ -1,3 +1,29 @@
-body{
-    background: orangered;
+
+
+
+.service-img{
+    width: 180px;
+    height: 160px;
+}
+
+
+@media (max-width:768px){
+    #intro{
+        width: 90% !important;
+    }
+.servicio-fila{
+    width: 100% !important;
+    text-align: center;
+    }
+
+}
+
+@media (max-width: 576px){
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+    .marg-top{
+        margin-top: 1em;
+    }
 }

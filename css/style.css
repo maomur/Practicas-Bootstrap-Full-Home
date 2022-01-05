@@ -1,0 +1,16 @@
+@media (max-width: 768px){
+    .top-header .mobile{
+        display: none;
+    }
+}
+
+@media (max-width: 560px){
+    .top-header .address{
+        display: none;
+    }
+}
+
+.logotipo{
+    width: 300px;
+    min-width: 180px;
+}
