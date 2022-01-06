@@ -11,6 +11,6 @@
 - Awesome Icons
 - Media Query
 
-![Screen Versión Web](https://raw.githubusercontent.com/maomur/Practicas-Bootstrap-Full-Home/main/assets/images/bootstrap-web)
+![Screen Versión Web](https://raw.githubusercontent.com/maomur/Practicas-Bootstrap-Full-Home/main/assets/images/bootstrap-web.png)
 
-![Screen Versión Responsive](https://raw.githubusercontent.com/maomur/Practicas-Bootstrap-Full-Home/main/assets/images/bootstrap-responsive)
+![Screen Versión Responsive](https://raw.githubusercontent.com/maomur/Practicas-Bootstrap-Full-Home/main/assets/images/bootstrap-responsive.png)
